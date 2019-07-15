@@ -1,0 +1,2 @@
+rm changeInterval.zip
+zip -R changeInterval.zip *py README.md LICENSE config* zipping ankiweb  --exclude \*~
