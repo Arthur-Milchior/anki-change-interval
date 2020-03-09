@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "title": "",
+  "properties": {
+    "Also change late cards": {
+      "type": "boolean",
+      "default": false
+    },
+    "Percent": {
+      "type": ["number", "null"],
+      "default": false
+    },
+    "Consider last review date": {
+      "type": "boolean",
+      "default": false
+    },
+  }
+}
